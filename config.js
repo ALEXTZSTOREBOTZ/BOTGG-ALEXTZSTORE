@@ -6,18 +6,18 @@ import moment from 'moment-timezone'
 
 /**Owner number**/
 global.owner = [
-  ['6282195322106', '️Owner1 Hinata-Md', true],
-  ['6282195322106', '️Owner2 Hinata-Md', true],
-  ['6282195322106', '️Owner3 Hinata-Md', true],
-  ['6282195322106', '️Owner4 Hinata-Md', true],
-  ['6282195322106', '️Owner5 Hinata-Md', true],
-  ['6282195322106', '️Owner6 Hinata-Md', true],
-  ['6282195322106', '️Owner Hinata-Md', true]
+  ['6283167581315', '️Owner1 Hinata-Md', true],
+  ['6283167581315', '️Owner2 Hinata-Md', true],
+  ['6283167581315', '️Owner3 Hinata-Md', true],
+  ['6283167581315', '️Owner4 Hinata-Md', true],
+  ['6283167581315', '️Owner5 Hinata-Md', true],
+  ['6283167581315', '️Owner6 Hinata-Md', true],
+  ['6283167581315', '️Owner Hinata-Md', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
-global.mods = [] // Want some help?
-global.prems = [] // Premium user has unlimited limit
-global.girlfren = [] // Your gf/pacar
+global.mods = [6283167581315] // Want some help?
+global.prems = [6283167581315] // Premium user has unlimited limit
+global.girlfren = [6283167581315] // Your gf/pacar
 
 //Api website
 global.APIs = { // API Prefix
@@ -68,15 +68,15 @@ let keyalpha = api[Math.floor(Math.random() * api.length)]
 global.apikeys = keyalpha
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6285171216276'
-global.nomorown = '6282195322106'
-global.namebot = 'Hinata Md'
-global.nameown = 'Owner Hinata Md'
+global.nomorbot = '6285647020625'
+global.nomorown = '6283167581315'
+global.namebot = 'Chika bot'
+global.nameown = 'Owner ALEXTZSTORE'
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 Hinata-Md あ⁩ 」' //Main Watermark
+global.wm = '                「 ALEXTZ STORE あ⁩ 」' //Main Watermark
 global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘օառɛʀ - chαn˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ Hinata-Md'
+global.wm3 = '⫹⫺ ALEXTZ STORE'
 global.botdate = `⫹⫺ Date :  ${moment.tz('Asia/Jakarta').format('DD/MM/YY')}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${moment.tz('Asia/Jakarta').format('HH:mm:ss')}`
 global.titlebot = `⫹⫺ Time Sever : ${moment.tz('Asia/Jakarta').format('HH:mm:ss')}\n⫹⫺ Date Server :  ${moment.tz('Asia/Jakarta').format('DD/MM/YY')}`
@@ -104,11 +104,11 @@ global.thumbnailUrl = [
 ]
 
 /*============== SOCIAL ==============*/
-global.sig = 'https://instagram.com/wudysoft.2'
-global.sgh = 'https://github.com/AyGemuy'
+global.sig = 'https://instagram.com/alextz_store'
+global.sgh = 'https://vt.tiktok.com/ZSd3823Tc/'
 global.sgc = 'https://chat.whatsapp.com/HAuQGhEBwqFK8CzrrYOwLq'
-global.sdc = 'https://github.com/AyGemuy'
-global.snh = 'https://github.com/AyGemuy'
+global.sdc = 'https://vt.tiktok.com/ZSd3823Tc/'
+global.snh = 'https://vt.tiktok.com/ZSd3823Tc/'
 
 /*============== HENTAI ==============*/ 
 //OPTIONS
@@ -364,9 +364,9 @@ global.htjava = '⫹⫺' //hiasan Doang :v
 
 /*============== STICKER WM ==============*/
 global.stickpack = '.'
-global.stickauth = `☂︎ Hinata Md\n⫹⫺ Whatsapp BOT\nwa.me/${global.nomorbot}`
+global.stickauth = `☂︎ ALEXTZ STORE\n⫹⫺ Whatsapp BOT\nwa.me/${global.nomorbot}`
 global.packname = 'Created By'
-global.author = "Hinata-Md X Wudysoft"
+global.author = "ALEXTZ STORE X Wudysoft"
 global.multiplier = 69 // The higher, The harder levelup
 
 /*============== ERR ==============*/
@@ -378,20 +378,17 @@ global.logo = "https://i.pinimg.com/564x/1d/10/8e/1d108e56fb96be61d9b48f7e17dd95
 global.gcwangsaf = "https://chat.whatsapp.com/HAuQGhEBwqFK8CzrrYOwLq"//Link Group whatsapp
 
 /*============== PAYMENT ==============*/
-global.saweria = "https://saweria.co/wudysoft"// website saweria.co
-global.dana = ["0887435373103"]
-global.pulsa = ["082195322106"]//pulsa here
-global.trakteer = "https://trakteer.id/wudysoft"//Link url https://
-global.paypal = "wudysoft@gmail.com"//paypal email
-global.gopay = "082195322106"//Numver for Payment digital Gopay Gojek
+global.gopay = ["083167581315"]
+global.dana = ["083167581315"]
+global.pulsa = ["083167581315"]//pulsa here
+global.gopay = "083167581315"//Numver for Payment digital Gopay Gojek
 
 /*============== PAYMENT ==============*/
-global.pdana = '0887435373103'
-global.povo = '082195322106'
-global.pgopay = '082195322106'
-global.ppulsa = '082195322106'
-global.ppulsa2 = '082195322106'
-global.psaweria = 'https://saweria.com/Wudysoft'
+global.pdana = '083167581315'
+global.povo = '083167581315'
+global.pgopay = '083167581315'
+global.ppulsa = '083167581315'
+global.ppulsa2 = '083167581315'
 
 //Rpg
 global.rpg = {
